@@ -1,5 +1,6 @@
 # Digital Edition Jekyll Theme
 
+** Annotations don't always show unless page refreshed (on pages with multiple annotations)
 
 digitaledition-jekylltheme is a [Jekyll](http://jekyllrb.com) theme
 based on [Lanyon](https://github.com/poole/lanyon).  It is intended to be used
